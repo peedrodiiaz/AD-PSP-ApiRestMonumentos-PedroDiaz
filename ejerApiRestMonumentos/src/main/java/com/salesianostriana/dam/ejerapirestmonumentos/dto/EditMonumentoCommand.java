@@ -1,0 +1,1 @@
+package com.salesianostriana.dam.ejerapirestmonumentos.dto;public record NewMonumentoCommand(         String codPais,         String nomPais,         String localizacion,         String nombre,         String descripcion,         String foto) {}

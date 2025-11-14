@@ -1,0 +1,1 @@
+package com.salesianostriana.dam.ejerapirestmonumentos.error;public class MonumentoNotFoundException {}
