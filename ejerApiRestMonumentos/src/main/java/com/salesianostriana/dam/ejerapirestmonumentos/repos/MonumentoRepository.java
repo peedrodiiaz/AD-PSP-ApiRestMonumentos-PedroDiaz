@@ -1,1 +1,1 @@
-package com.salesianostriana.dam.ejerapirestmonumentos.repos;public interface MonumentoRepository {}
+package com.salesianostriana.dam.ejerapirestmonumentos.repos;import com.salesianostriana.dam.ejerapirestmonumentos.model.Monumento;import org.springframework.data.jpa.repository.JpaRepository;public interface MonumentoRepository extends JpaRepository <Monumento, Long> {}
